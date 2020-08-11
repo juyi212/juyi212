@@ -1,5 +1,6 @@
 Hi~ 👋
-🔭 I’m currently learning python, web,..etc.
+
+🔭 I’m currently learning python, web,..etc.     
 
 ```
 def juyi(age):
