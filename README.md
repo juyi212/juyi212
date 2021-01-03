@@ -2,12 +2,12 @@
 
 Hi~ 👋
 
-🔭 I’m currently learning python, web,..etc.     
+🔭 I’m currently learning python, Javascript, Vue.js ..etc.     
 
 ```
 def juyi(age):
-  if age>=26:
-    print('I'm a developer')
+  if age >= 26:
+    print('I'm a developer. I am still studying hard')
   else:
     print(f'I'm still {age}. I can do it !⚡ ')
 
