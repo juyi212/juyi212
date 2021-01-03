@@ -7,7 +7,7 @@ Hi~ 👋
 ```
 def juyi(age):
   if age >= 26:
-    print('I'm a developer. I am still studying hard')
+    print('I'm a developer. I am still studying hard.')
   else:
     print(f'I'm still {age}. I can do it !⚡ ')
 
