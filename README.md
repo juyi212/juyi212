@@ -1,3 +1,5 @@
+# 주이
+
 Hi~ 👋
 
 🔭 I’m currently learning python, web,..etc.     
