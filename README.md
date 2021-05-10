@@ -6,6 +6,7 @@
 ### 🛠️ Skills
 #### Front-end
 <img src="https://img.shields.io/badge/Vue-green?style=flat-square&logo=Vue.js&logoColor=white">
+<img src="https://img.shields.io/badge/React-red?style=flat-square&logo=React&logoColor=white">
 <img src="https://img.shields.io/badge/Python-3.6.8-blue?style=flat&logo=Python">
 <img src="https://img.shields.io/badge/React-17.0.2-9cf?style=flat&logo=React">
 <img src="https://img.shields.io/badge/Vue-17.0.2-9cf?style=flat&logo=Vue">
