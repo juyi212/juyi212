@@ -4,10 +4,10 @@
 배우는 것을 좋아하고 배움을 통해 새로운 것을 만들어내는 과정을 좋아합니다.
 
 ### 🛠️ Skills
-- Front-end
-<p align="center">
+#### Front-end
 <img src="https://img.shields.io/badge/Python-3.6.8-blue?style=flat&logo=Python">
 <img src="https://img.shields.io/badge/React-17.0.2-9cf?style=flat&logo=React">
+<img src="https://img.shields.io/badge/Vue-17.0.2-9cf?style=flat&logo=Vue">
 <img src="https://img.shields.io/badge/Django-3.1.1-green?style=flat&logo=Django">
 
 
