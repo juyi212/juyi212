@@ -11,6 +11,6 @@
 <img src="https://img.shields.io/badge/Python-3.6.8-blue?style=flat&logo=Python"> <img src="https://img.shields.io/badge/Django-3.1.1-green?style=flat&logo=Django">
 
 #### DevOps
-<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"> <img src="https://img.shields.io/badge/Netlify-4479A1?style=flat-square&logo=Netlify&logoColor=white">
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"> <img src="https://img.shields.io/badge/Netlify-4479A9?style=flat-square&logo=Netlify&logoColor=white">
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=juyi212&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
