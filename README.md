@@ -13,4 +13,3 @@
 #### DevOps
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"> <img src="https://img.shields.io/badge/Netlify-1150A9?style=flat-square&logo=Netlify&logoColor=white">
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=juyi212&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
