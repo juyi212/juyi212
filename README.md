@@ -1,4 +1,4 @@
-# :hatched_chick: 주이 Juyi Lee :hatching_chick:
+# 이주이 Juyi Lee :hatching_chick:
 
 
 ### 🛠️ Skills
